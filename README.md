@@ -1,7 +1,7 @@
-## Animated Portfolio 🌐 ![GitHub stars](https://img.shields.io/github/stars/kushjaggi/animated-portfolio) ![GitHub forks](https://img.shields.io/github/forks/kushjaggi/animated-portfolio)
+## Animated Portfolio 🌐 ![GitHub stars](https://github.com/Pro-Vishnu/Introduce-yourself.git) ![GitHub forks](https://github.com/Pro-Vishnu/Introduce-yourself.git)
 
 ### A Sample Portfolio template for Developers!
-https://kushjaggi.github.io/animated-portfolio.github.io/
+https://github.com/Pro-Vishnu/Introduce-yourself.git
 ### Features
 
 📙 Simple UI Design\
@@ -19,7 +19,7 @@ OR
 
 ```
 # Clone this repository
-$ git clone https://github.com/kushjaggi/animated-portfolio.git
+$ git clone https://github.com/Pro-Vishnu/Introduce-yourself.git
 
 # Go into the repository
 $ cd animated-portfolio
@@ -30,4 +30,4 @@ $ git remote remove origin
 
 ---
 
-#### Shape with ❤ by @kushjaggi.
+#### Shape with ❤ by @vishnu rathod
